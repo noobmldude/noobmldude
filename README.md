@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**noobmldude/noobmldude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there. I'm just another dude who's getting started in the ML space 👋
 
 - 🔭 I’m currently working on making ML accessible.
 - 🌱 I’m currently learning basics of ML
@@ -12,4 +7,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ML stuff. I might not know how to answer everything, but I'll learn and get back.
 - 📫 How to reach me: https://twitter.com/NoobMLDude
 - ⚡ Fun fact: Im Noob AF.
--->
